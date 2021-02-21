@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Twitch DB
+        Twitch DB version 3
+      Hello World
         <div>
           <div>Username: Ninja</div>
           <div>Views: 200000</div>
